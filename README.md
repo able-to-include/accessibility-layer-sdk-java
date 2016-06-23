@@ -1,6 +1,6 @@
 # accessibility-layer-sdk-java
 Java SDK to easily develop applications using the Able to include Accessibility Layer.
-You can find information about how to use it on the [Wiki](https://github.com/able-to-include/accessibility-layer-sdk-java/wiki).
+You can find more information about [the last releases](https://github.com/able-to-include/accessibility-layer-sdk-java/releases).
 
 ## License
 
